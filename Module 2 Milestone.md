@@ -52,4 +52,31 @@ Two Analytics Tools to be Used:
 1) Overall Traffic
 2) Bounce Rate
 
-   
+WEBSITE CONTENT:
+FUNDAMENTALS-SITEMAP
+
+REASONS FOR MY LAYOUT CHOICE: 
+
+MY Layout choice was selected because it met my needs of what I 
+needed for my website and my other reason for selected this layout 
+choice, because of being a novice at his, my skill in developing this 
+this sitemap was very limited.
+
+REASONS FOR MY COLOR CHOICE: 
+
+My color choice was based on the color of my logo on my business card.
+
+REASONS FOR MY FONT CHOICE:
+
+My font choice is similar to my logo.
+
+REASON FOR MY TYPOGRAPHY:
+
+My choice of typography is based on being, "EASY ON THE EYES"! 
+
+MY TARGET AUDIENCE:
+
+My target audience are adults, who are shooting sport fans,interested in 
+personal protection and adults who just have a interest. 
+
+    
