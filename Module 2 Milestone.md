@@ -77,6 +77,11 @@ My choice of typography is based on being, "EASY ON THE EYES"!
 MY TARGET AUDIENCE:
 
 My target audience are adults, who are shooting sport fans,interested in 
-personal protection and adults who just have a interest. 
+personal protection and adults who just have a interest.
+
+SITE MAP FUNCTIONALITIES:
+
+Helps ensure the structure of a website is well-planned and makes the 
+process of designing and developing the website go more smoothly. 
 
     
